@@ -63,5 +63,5 @@ to the server. They are ‘GET’ & ‘POST’
 ![(images/exp3-step7.png)](https://github.com/SaicharanT-tech/Digital-Forensics-Lab-Exercises-/blob/1c80535e205e40fbeba920291e9034a62fe89cb2/Images/Screenshot%202025-09-01%20212412.png)
 As you analyze the HTML form in POST requests, you can view user credentials (e.g., username and password).  
 Example:  
-- Form item: "uname" = "sai charan"
+- Form item: "uname" = "sathwik"
 - Form item: "pass" = "1234"
